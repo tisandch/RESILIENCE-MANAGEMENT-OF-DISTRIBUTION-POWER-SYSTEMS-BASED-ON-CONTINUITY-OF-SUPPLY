@@ -1,0 +1,412 @@
+﻿DPS type;Indicator;Outcome;n;rho;95% CI lower;95% CI upper;p;q;Selection
+LV–MV;LV network density;ICPS;669;-0.069;-0.145;0.007;0.073;0.175;FALSE
+LV–MV;LV network density;SAIDI;669;0.055;-0.021;0.131;0.154;0.281;FALSE
+LV–MV;LV network density;ASIDI;669;0.046;-0.030;0.122;0.232;0.377;FALSE
+LV–MV;MV network density;ICPS;663;-0.009;-0.085;0.067;0.823;0.883;FALSE
+LV–MV;MV network density;SAIDI;663;0.073;-0.003;0.148;0.061;0.155;FALSE
+LV–MV;MV network density;ASIDI;663;-0.095;-0.170;-0.019;0.015;0.049;FALSE
+LV–MV;Ratio of LV to MV network length;ICPS;669;0.108;0.032;0.183;0.005;0.023;TRUE
+LV–MV;Ratio of LV to MV network length;SAIDI;669;-0.054;-0.129;0.022;0.164;0.292;FALSE
+LV–MV;Ratio of LV to MV network length;ASIDI;669;-0.191;-0.264;-0.116;<0.001;<0.001;TRUE
+LV–MV;Network length per consumption point;ICPS;669;-0.007;-0.082;0.069;0.863;0.906;FALSE
+LV–MV;Network length per consumption point;SAIDI;669;-0.024;-0.099;0.052;0.541;0.675;FALSE
+LV–MV;Network length per consumption point;ASIDI;669;0.051;-0.025;0.127;0.184;0.315;FALSE
+LV–MV;Network length per generation point;ICPS;667;-0.107;-0.182;-0.032;0.005;0.023;TRUE
+LV–MV;Network length per generation point;SAIDI;667;0.071;-0.005;0.146;0.066;0.163;FALSE
+LV–MV;Network length per generation point;ASIDI;667;0.101;0.025;0.176;0.009;0.032;TRUE
+LV–MV;Generation points per 1,000 consumption points;ICPS;669;0.042;-0.034;0.117;0.283;0.424;FALSE
+LV–MV;Generation points per 1,000 consumption points;SAIDI;669;-0.045;-0.121;0.031;0.243;0.388;FALSE
+LV–MV;Generation points per 1,000 consumption points;ASIDI;669;-0.007;-0.083;0.069;0.856;0.906;FALSE
+LV–MV;Vertical exchange intensity;ICPS;636;0.092;0.014;0.169;0.020;0.062;FALSE
+LV–MV;Vertical exchange intensity;SAIDI;636;-0.068;-0.145;0.010;0.086;0.192;FALSE
+LV–MV;Vertical exchange intensity;ASIDI;636;-0.129;-0.205;-0.052;0.001;0.006;TRUE
+LV–MV;GIS coverage of LV network;ICPS;667;-0.204;-0.277;-0.130;<0.001;<0.001;TRUE
+LV–MV;GIS coverage of LV network;SAIDI;667;0.192;0.117;0.265;<0.001;<0.001;TRUE
+LV–MV;GIS coverage of LV network;ASIDI;667;0.152;0.077;0.226;<0.001;<0.001;TRUE
+LV–MV;GIS coverage of MV network;ICPS;667;-0.178;-0.251;-0.103;<0.001;<0.001;TRUE
+LV–MV;GIS coverage of MV network;SAIDI;667;0.195;0.120;0.268;<0.001;<0.001;TRUE
+LV–MV;GIS coverage of MV network;ASIDI;667;0.148;0.073;0.222;<0.001;<0.001;TRUE
+LV–MV;GIS coverage of HV network;ICPS;285;0.045;-0.071;0.161;0.446;0.578;FALSE
+LV–MV;GIS coverage of HV network;SAIDI;285;0.010;-0.106;0.126;0.863;0.906;FALSE
+LV–MV;GIS coverage of HV network;ASIDI;285;-0.008;-0.124;0.109;0.900;0.934;FALSE
+LV–MV;Share of non-remote maximum-demand meters;ICPS;661;-0.186;-0.259;-0.111;<0.001;<0.001;TRUE
+LV–MV;Share of non-remote maximum-demand meters;SAIDI;661;0.169;0.094;0.243;<0.001;<0.001;TRUE
+LV–MV;Share of non-remote maximum-demand meters;ASIDI;661;0.147;0.071;0.221;<0.001;0.001;TRUE
+LV–MV;Share of local substations with remote measurements at the transformer;ICPS;659;-0.054;-0.130;0.023;0.166;0.292;FALSE
+LV–MV;Share of local substations with remote measurements at the transformer;SAIDI;659;0.093;0.016;0.168;0.017;0.054;FALSE
+LV–MV;Share of local substations with remote measurements at the transformer;ASIDI;659;0.022;-0.055;0.098;0.580;0.692;FALSE
+LV–MV;Share of local substations with remote measurements in the LV distribution board;ICPS;657;-0.045;-0.121;0.032;0.250;0.396;FALSE
+LV–MV;Share of local substations with remote measurements in the LV distribution board;SAIDI;657;0.061;-0.015;0.137;0.116;0.225;FALSE
+LV–MV;Share of local substations with remote measurements in the LV distribution board;ASIDI;657;0.020;-0.057;0.096;0.614;0.723;FALSE
+LV–MV;Share of LV lines with centralized online monitoring;ICPS;667;0.012;-0.064;0.088;0.752;0.816;FALSE
+LV–MV;Share of LV lines with centralized online monitoring;SAIDI;667;-0.020;-0.095;0.056;0.612;0.723;FALSE
+LV–MV;Share of LV lines with centralized online monitoring;ASIDI;667;0.017;-0.059;0.093;0.662;0.756;FALSE
+LV–MV;Share of MV lines with centralized online monitoring;ICPS;664;-0.042;-0.118;0.034;0.280;0.424;FALSE
+LV–MV;Share of MV lines with centralized online monitoring;SAIDI;664;0.069;-0.007;0.144;0.076;0.179;FALSE
+LV–MV;Share of MV lines with centralized online monitoring;ASIDI;664;0.068;-0.008;0.144;0.079;0.182;FALSE
+LV–MV;Share of HV lines with centralized online monitoring;ICPS;278;-0.038;-0.155;0.080;0.524;0.666;FALSE
+LV–MV;Share of HV lines with centralized online monitoring;SAIDI;278;0.094;-0.024;0.210;0.116;0.225;FALSE
+LV–MV;Share of HV lines with centralized online monitoring;ASIDI;278;-0.005;-0.123;0.113;0.931;0.959;FALSE
+LV–MV;Share of MV/LV transformers with centralized online monitoring;ICPS;661;-0.017;-0.093;0.059;0.665;0.756;FALSE
+LV–MV;Share of MV/LV transformers with centralized online monitoring;SAIDI;661;0.015;-0.062;0.091;0.704;0.786;FALSE
+LV–MV;Share of MV/LV transformers with centralized online monitoring;ASIDI;661;0.023;-0.054;0.099;0.563;0.681;FALSE
+LV–MV;Share of HV/MV transformers with centralized online monitoring;ICPS;386;-0.307;-0.396;-0.211;<0.001;<0.001;TRUE
+LV–MV;Share of HV/MV transformers with centralized online monitoring;SAIDI;386;0.286;0.190;0.377;<0.001;<0.001;TRUE
+LV–MV;Share of HV/MV transformers with centralized online monitoring;ASIDI;386;0.318;0.223;0.407;<0.001;<0.001;TRUE
+LV–MV;Share of LV network equipment with centralized control;ICPS;665;0.038;-0.038;0.114;0.326;0.469;FALSE
+LV–MV;Share of LV network equipment with centralized control;SAIDI;665;-0.042;-0.118;0.034;0.276;0.424;FALSE
+LV–MV;Share of LV network equipment with centralized control;ASIDI;665;-0.061;-0.136;0.015;0.117;0.225;FALSE
+LV–MV;Share of MV network equipment with centralized control;ICPS;664;-0.136;-0.211;-0.061;<0.001;0.003;TRUE
+LV–MV;Share of MV network equipment with centralized control;SAIDI;664;0.164;0.088;0.237;<0.001;<0.001;TRUE
+LV–MV;Share of MV network equipment with centralized control;ASIDI;664;0.113;0.037;0.188;0.004;0.016;TRUE
+LV–MV;Share of HV network equipment with centralized control;ICPS;282;-0.058;-0.174;0.059;0.330;0.469;FALSE
+LV–MV;Share of HV network equipment with centralized control;SAIDI;282;0.052;-0.065;0.168;0.385;0.529;FALSE
+LV–MV;Share of HV network equipment with centralized control;ASIDI;282;0.089;-0.028;0.204;0.135;0.250;FALSE
+LV–MV;Share of MV/LV substations with centralized control;ICPS;657;-0.066;-0.142;0.011;0.092;0.197;FALSE
+LV–MV;Share of MV/LV substations with centralized control;SAIDI;657;-0.003;-0.079;0.074;0.949;0.959;FALSE
+LV–MV;Share of MV/LV substations with centralized control;ASIDI;657;0.124;0.048;0.199;0.001;0.008;TRUE
+LV–MV;Share of HV/MV substations with centralized control;ICPS;386;-0.283;-0.374;-0.187;<0.001;<0.001;TRUE
+LV–MV;Share of HV/MV substations with centralized control;SAIDI;386;0.300;0.205;0.390;<0.001;<0.001;TRUE
+LV–MV;Share of HV/MV substations with centralized control;ASIDI;386;0.240;0.143;0.334;<0.001;<0.001;TRUE
+LV–MV;DG capacity relative to peak LV load;ICPS;659;0.172;0.096;0.246;<0.001;<0.001;TRUE
+LV–MV;DG capacity relative to peak LV load;SAIDI;659;-0.176;-0.249;-0.100;<0.001;<0.001;TRUE
+LV–MV;DG capacity relative to peak LV load;ASIDI;659;-0.112;-0.187;-0.035;0.004;0.019;TRUE
+LV–MV;DG capacity relative to peak MV load;ICPS;648;-0.123;-0.198;-0.046;0.002;0.009;TRUE
+LV–MV;DG capacity relative to peak MV load;SAIDI;648;0.107;0.030;0.182;0.007;0.026;TRUE
+LV–MV;DG capacity relative to peak MV load;ASIDI;648;0.156;0.080;0.231;<0.001;<0.001;TRUE
+LV–MV;DG capacity utilization factor (CUF) at LV level;ICPS;666;0.068;-0.008;0.143;0.080;0.184;FALSE
+LV–MV;DG capacity utilization factor (CUF) at LV level;SAIDI;666;-0.151;-0.224;-0.075;<0.001;<0.001;TRUE
+LV–MV;DG capacity utilization factor (CUF) at LV level;ASIDI;666;0.012;-0.064;0.088;0.748;0.816;FALSE
+LV–MV;DG CUF at MV level;ICPS;591;-0.011;-0.092;0.070;0.791;0.853;FALSE
+LV–MV;DG CUF at MV level;SAIDI;591;-0.039;-0.119;0.042;0.344;0.483;FALSE
+LV–MV;DG CUF at MV level;ASIDI;591;0.112;0.032;0.192;0.006;0.025;TRUE
+LV–MV;Share of solar generation at LV level;ICPS;667;0.022;-0.054;0.098;0.567;0.681;FALSE
+LV–MV;Share of solar generation at LV level;SAIDI;667;0.032;-0.044;0.108;0.404;0.546;FALSE
+LV–MV;Share of solar generation at LV level;ASIDI;667;-0.101;-0.176;-0.026;0.009;0.032;TRUE
+LV–MV;Share of wind generation at LV level;ICPS;632;-0.115;-0.191;-0.037;0.004;0.018;TRUE
+LV–MV;Share of wind generation at LV level;SAIDI;632;0.089;0.011;0.166;0.026;0.075;FALSE
+LV–MV;Share of wind generation at LV level;ASIDI;632;0.172;0.094;0.247;<0.001;<0.001;TRUE
+LV–MV;Share of other RES at LV level;ICPS;643;-0.015;-0.092;0.062;0.704;0.786;FALSE
+LV–MV;Share of other RES at LV level;SAIDI;643;-0.044;-0.121;0.034;0.267;0.417;FALSE
+LV–MV;Share of other RES at LV level;ASIDI;643;0.086;0.008;0.162;0.030;0.084;FALSE
+LV–MV;Share of solar generation at MV level;ICPS;591;0.040;-0.041;0.121;0.328;0.469;FALSE
+LV–MV;Share of solar generation at MV level;SAIDI;591;0.024;-0.057;0.104;0.566;0.681;FALSE
+LV–MV;Share of solar generation at MV level;ASIDI;591;-0.143;-0.222;-0.063;<0.001;0.003;TRUE
+LV–MV;Share of wind generation at MV level;ICPS;565;-0.128;-0.209;-0.046;0.002;0.011;TRUE
+LV–MV;Share of wind generation at MV level;SAIDI;565;0.113;0.030;0.194;0.007;0.028;TRUE
+LV–MV;Share of wind generation at MV level;ASIDI;565;0.176;0.095;0.256;<0.001;<0.001;TRUE
+LV–MV;Share of other RES at MV level;ICPS;572;0.025;-0.057;0.107;0.555;0.681;FALSE
+LV–MV;Share of other RES at MV level;SAIDI;572;-0.087;-0.168;-0.005;0.037;0.101;FALSE
+LV–MV;Share of other RES at MV level;ASIDI;572;0.079;-0.003;0.160;0.058;0.150;FALSE
+LV–MV;Average capacity of solar connection applications at LV level;ICPS;642;0.023;-0.055;0.100;0.568;0.681;FALSE
+LV–MV;Average capacity of solar connection applications at LV level;SAIDI;642;-0.070;-0.147;0.008;0.076;0.179;FALSE
+LV–MV;Average capacity of solar connection applications at LV level;ASIDI;642;0.028;-0.049;0.105;0.476;0.610;FALSE
+LV–MV;Average capacity of wind connection applications at LV level;ICPS;22;0.019;-0.406;0.437;0.934;0.959;FALSE
+LV–MV;Average capacity of wind connection applications at LV level;SAIDI;22;0.138;-0.303;0.530;0.540;0.675;FALSE
+LV–MV;Average capacity of wind connection applications at LV level;ASIDI;22;-0.240;-0.605;0.208;0.282;0.424;FALSE
+LV–MV;Average capacity of other RES connection applications at LV level;ICPS;95;0.231;0.028;0.415;0.024;0.073;TRUE
+LV–MV;Average capacity of other RES connection applications at LV level;SAIDI;95;-0.168;-0.358;0.036;0.104;0.211;FALSE
+LV–MV;Average capacity of other RES connection applications at LV level;ASIDI;95;-0.234;-0.418;-0.032;0.022;0.068;TRUE
+LV–MV;Average capacity of solar connection applications at MV level;ICPS;400;-0.080;-0.177;0.018;0.109;0.218;FALSE
+LV–MV;Average capacity of solar connection applications at MV level;SAIDI;400;0.096;-0.002;0.193;0.055;0.143;FALSE
+LV–MV;Average capacity of solar connection applications at MV level;ASIDI;400;0.045;-0.053;0.143;0.368;0.508;FALSE
+LV–MV;Average capacity of wind connection applications at MV level;ICPS;65;-0.178;-0.406;0.071;0.156;0.282;FALSE
+LV–MV;Average capacity of wind connection applications at MV level;SAIDI;65;0.137;-0.112;0.369;0.278;0.424;FALSE
+LV–MV;Average capacity of wind connection applications at MV level;ASIDI;65;0.168;-0.080;0.398;0.180;0.314;FALSE
+LV–MV;Average capacity of other RES connection applications at MV level;ICPS;52;-0.110;-0.372;0.169;0.439;0.573;FALSE
+LV–MV;Average capacity of other RES connection applications at MV level;SAIDI;52;0.106;-0.172;0.369;0.453;0.584;FALSE
+LV–MV;Average capacity of other RES connection applications at MV level;ASIDI;52;0.115;-0.164;0.377;0.416;0.554;FALSE
+LV–MV;Duration of generation connection to LV network;ICPS;603;-0.080;-0.159;-0.000;0.049;0.132;FALSE
+LV–MV;Duration of generation connection to LV network;SAIDI;603;0.069;-0.011;0.148;0.090;0.197;FALSE
+LV–MV;Duration of generation connection to LV network;ASIDI;603;0.069;-0.011;0.149;0.088;0.195;FALSE
+LV–MV;Duration of generation connection to MV network;ICPS;273;-0.004;-0.123;0.115;0.946;0.959;FALSE
+LV–MV;Duration of generation connection to MV network;SAIDI;273;0.079;-0.040;0.196;0.193;0.322;FALSE
+LV–MV;Duration of generation connection to MV network;ASIDI;273;-0.079;-0.196;0.040;0.191;0.322;FALSE
+LV–MV;Peak LV load per LV consumer;ICPS;661;0.116;0.040;0.191;0.003;0.014;TRUE
+LV–MV;Peak LV load per LV consumer;SAIDI;661;-0.202;-0.274;-0.126;<0.001;<0.001;TRUE
+LV–MV;Peak LV load per LV consumer;ASIDI;661;-0.023;-0.099;0.054;0.563;0.681;FALSE
+LV–MV;Peak MV load per MV consumer;ICPS;642;0.094;0.017;0.170;0.017;0.054;FALSE
+LV–MV;Peak MV load per MV consumer;SAIDI;642;-0.031;-0.108;0.047;0.439;0.573;FALSE
+LV–MV;Peak MV load per MV consumer;ASIDI;642;-0.141;-0.216;-0.064;<0.001;0.002;TRUE
+LV–MV;Share of EV charging stations in peak LV load;ICPS;641;-0.019;-0.096;0.059;0.632;0.735;FALSE
+LV–MV;Share of EV charging stations in peak LV load;SAIDI;641;0.019;-0.058;0.097;0.623;0.729;FALSE
+LV–MV;Share of EV charging stations in peak LV load;ASIDI;641;0.013;-0.064;0.091;0.738;0.814;FALSE
+LV–MV;Share of EV charging stations in peak MV load;ICPS;587;-0.183;-0.261;-0.103;<0.001;<0.001;TRUE
+LV–MV;Share of EV charging stations in peak MV load;SAIDI;587;0.163;0.083;0.241;<0.001;<0.001;TRUE
+LV–MV;Share of EV charging stations in peak MV load;ASIDI;587;0.190;0.110;0.268;<0.001;<0.001;TRUE
+LV–MV;Share of heat pumps in peak LV load;ICPS;632;-0.018;-0.096;0.060;0.658;0.756;FALSE
+LV–MV;Share of heat pumps in peak LV load;SAIDI;632;0.039;-0.039;0.117;0.323;0.469;FALSE
+LV–MV;Share of heat pumps in peak LV load;ASIDI;632;-0.006;-0.084;0.072;0.886;0.925;FALSE
+LV–MV;LV connection applications per 1,000 LV consumers;ICPS;644;0.108;0.030;0.183;0.006;0.025;TRUE
+LV–MV;LV connection applications per 1,000 LV consumers;SAIDI;644;-0.124;-0.199;-0.046;0.002;0.009;TRUE
+LV–MV;LV connection applications per 1,000 LV consumers;ASIDI;644;-0.055;-0.132;0.022;0.160;0.288;FALSE
+LV–MV;New/upgraded LV connection points per 1,000 LV points;ICPS;623;-0.097;-0.175;-0.019;0.015;0.051;FALSE
+LV–MV;New/upgraded LV connection points per 1,000 LV points;SAIDI;623;0.069;-0.010;0.147;0.085;0.192;FALSE
+LV–MV;New/upgraded LV connection points per 1,000 LV points;ASIDI;623;0.066;-0.012;0.144;0.097;0.203;FALSE
+LV–MV;Duration of consumer connection to LV network;ICPS;568;-0.049;-0.131;0.033;0.241;0.388;FALSE
+LV–MV;Duration of consumer connection to LV network;SAIDI;568;0.067;-0.016;0.148;0.112;0.222;FALSE
+LV–MV;Duration of consumer connection to LV network;ASIDI;568;0.034;-0.048;0.116;0.415;0.554;FALSE
+LV–MV;Share of implemented consumer connection applications at LV level;ICPS;605;-0.039;-0.119;0.040;0.333;0.471;FALSE
+LV–MV;Share of implemented consumer connection applications at LV level;SAIDI;605;0.034;-0.045;0.114;0.399;0.543;FALSE
+LV–MV;Share of implemented consumer connection applications at LV level;ASIDI;605;-0.001;-0.081;0.078;0.975;0.981;FALSE
+LV–MV;MV connection applications per 1,000 MV consumers;ICPS;598;-0.081;-0.160;-0.000;0.049;0.131;FALSE
+LV–MV;MV connection applications per 1,000 MV consumers;SAIDI;598;0.062;-0.018;0.142;0.127;0.238;FALSE
+LV–MV;MV connection applications per 1,000 MV consumers;ASIDI;598;0.132;0.052;0.210;0.001;0.007;TRUE
+LV–MV;New/upgraded MV connection points per 1,000 MV points;ICPS;611;-0.089;-0.167;-0.010;0.028;0.080;FALSE
+LV–MV;New/upgraded MV connection points per 1,000 MV points;SAIDI;611;0.067;-0.013;0.145;0.099;0.205;FALSE
+LV–MV;New/upgraded MV connection points per 1,000 MV points;ASIDI;611;0.137;0.058;0.215;<0.001;0.004;TRUE
+LV–MV;Duration of consumer connection to MV network;ICPS;188;-0.135;-0.273;0.009;0.066;0.163;FALSE
+LV–MV;Duration of consumer connection to MV network;SAIDI;188;0.222;0.080;0.356;0.002;0.011;TRUE
+LV–MV;Duration of consumer connection to MV network;ASIDI;188;-0.058;-0.200;0.086;0.428;0.567;FALSE
+LV–MV;Share of implemented consumer connection applications at MV level;ICPS;217;0.042;-0.092;0.174;0.538;0.675;FALSE
+LV–MV;Share of implemented consumer connection applications at MV level;SAIDI;217;-0.023;-0.156;0.110;0.731;0.812;FALSE
+LV–MV;Share of implemented consumer connection applications at MV level;ASIDI;217;-0.088;-0.219;0.046;0.197;0.323;FALSE
+LV–MV;BESS capacity relative to peak LV load;ICPS;638;-0.003;-0.080;0.075;0.948;0.959;FALSE
+LV–MV;BESS capacity relative to peak LV load;SAIDI;638;0.017;-0.060;0.095;0.663;0.756;FALSE
+LV–MV;BESS capacity relative to peak LV load;ASIDI;638;-0.007;-0.085;0.070;0.856;0.906;FALSE
+LV–MV;BESS capacity relative to peak MV load;ICPS;574;-0.114;-0.194;-0.032;0.006;0.025;TRUE
+LV–MV;BESS capacity relative to peak MV load;SAIDI;574;0.076;-0.006;0.157;0.069;0.168;FALSE
+LV–MV;BESS capacity relative to peak MV load;ASIDI;574;0.148;0.066;0.227;<0.001;0.003;TRUE
+LV–MV;BESS connection applications per 1,000 LV consumers;ICPS;627;0.066;-0.013;0.143;0.101;0.206;FALSE
+LV–MV;BESS connection applications per 1,000 LV consumers;SAIDI;627;-0.075;-0.152;0.004;0.062;0.157;FALSE
+LV–MV;BESS connection applications per 1,000 LV consumers;ASIDI;627;-0.037;-0.115;0.041;0.349;0.485;FALSE
+LV–MV;BESS connection applications per 1,000 MV consumers;ICPS;583;-0.100;-0.180;-0.019;0.016;0.051;TRUE
+LV–MV;BESS connection applications per 1,000 MV consumers;SAIDI;583;0.103;0.022;0.183;0.013;0.043;TRUE
+LV–MV;BESS connection applications per 1,000 MV consumers;ASIDI;583;0.115;0.034;0.195;0.005;0.023;TRUE
+LV–MV;Processing time of connection requests for consumption devices and storage at LV level;ICPS;568;-0.064;-0.146;0.018;0.125;0.238;FALSE
+LV–MV;Processing time of connection requests for consumption devices and storage at LV level;SAIDI;568;0.071;-0.012;0.152;0.093;0.197;FALSE
+LV–MV;Processing time of connection requests for consumption devices and storage at LV level;ASIDI;568;0.054;-0.028;0.136;0.196;0.323;FALSE
+LV–MV;Processing time of connection requests for consumption devices and storage at MV level;ICPS;188;-0.123;-0.262;0.021;0.094;0.198;FALSE
+LV–MV;Processing time of connection requests for consumption devices and storage at MV level;SAIDI;188;0.192;0.049;0.327;0.008;0.031;TRUE
+LV–MV;Processing time of connection requests for consumption devices and storage at MV level;ASIDI;188;0.001;-0.143;0.144;0.994;0.994;FALSE
+LV–MV;Prosumers in full market mode per 1,000 LV consumers;ICPS;511;-0.099;-0.184;-0.012;0.025;0.074;FALSE
+LV–MV;Prosumers in full market mode per 1,000 LV consumers;SAIDI;511;0.044;-0.043;0.130;0.323;0.469;FALSE
+LV–MV;Prosumers in full market mode per 1,000 LV consumers;ASIDI;511;0.114;0.027;0.199;0.010;0.035;TRUE
+LV–MV;Time to switch prosumers to full market mode;ICPS;369;-0.017;-0.119;0.085;0.746;0.816;FALSE
+LV–MV;Time to switch prosumers to full market mode;SAIDI;369;-0.053;-0.155;0.049;0.308;0.458;FALSE
+LV–MV;Time to switch prosumers to full market mode;ASIDI;369;0.068;-0.034;0.169;0.192;0.322;FALSE
+LV–MV;Level of automation of prosumer switching;ICPS;434;-0.064;-0.157;0.031;0.184;0.315;FALSE
+LV–MV;Level of automation of prosumer switching;SAIDI;434;0.100;0.006;0.193;0.037;0.101;FALSE
+LV–MV;Level of automation of prosumer switching;ASIDI;434;-0.019;-0.113;0.076;0.699;0.786;FALSE
+LV–MV;Consumers with dynamic tariffs per 1,000 LV consumers;ICPS;507;-0.049;-0.136;0.038;0.267;0.417;FALSE
+LV–MV;Consumers with dynamic tariffs per 1,000 LV consumers;SAIDI;507;0.045;-0.042;0.132;0.312;0.461;FALSE
+LV–MV;Consumers with dynamic tariffs per 1,000 LV consumers;ASIDI;507;0.068;-0.019;0.154;0.127;0.238;FALSE
+LV–MV–HV;LV network density;ICPS;97;0.029;-0.171;0.227;0.776;0.890;FALSE
+LV–MV–HV;LV network density;SAIDI;97;0.156;-0.046;0.346;0.126;0.368;FALSE
+LV–MV–HV;LV network density;ASIDI;97;-0.188;-0.375;0.013;0.065;0.260;FALSE
+LV–MV–HV;MV network density;ICPS;97;0.174;-0.027;0.363;0.088;0.298;FALSE
+LV–MV–HV;MV network density;SAIDI;97;0.056;-0.145;0.253;0.584;0.785;FALSE
+LV–MV–HV;MV network density;ASIDI;97;-0.319;-0.491;-0.122;0.001;0.046;TRUE
+LV–MV–HV;Ratio of LV to MV network length;ICPS;97;0.217;0.016;0.401;0.033;0.185;FALSE
+LV–MV–HV;Ratio of LV to MV network length;SAIDI;97;-0.201;-0.387;0.000;0.048;0.230;FALSE
+LV–MV–HV;Ratio of LV to MV network length;ASIDI;97;-0.106;-0.300;0.096;0.301;0.549;FALSE
+LV–MV–HV;Network length per consumption point;ICPS;97;-0.197;-0.383;0.005;0.054;0.239;FALSE
+LV–MV–HV;Network length per consumption point;SAIDI;97;0.150;-0.052;0.340;0.143;0.378;FALSE
+LV–MV–HV;Network length per consumption point;ASIDI;97;0.120;-0.082;0.313;0.242;0.504;FALSE
+LV–MV–HV;Network length per generation point;ICPS;97;-0.149;-0.340;0.053;0.144;0.378;FALSE
+LV–MV–HV;Network length per generation point;SAIDI;97;0.270;0.071;0.449;0.007;0.081;TRUE
+LV–MV–HV;Network length per generation point;ASIDI;97;-0.103;-0.297;0.099;0.313;0.558;FALSE
+LV–MV–HV;Generation points per 1,000 consumption points;ICPS;97;0.147;-0.055;0.338;0.150;0.383;FALSE
+LV–MV–HV;Generation points per 1,000 consumption points;SAIDI;97;-0.321;-0.493;-0.125;0.001;0.046;TRUE
+LV–MV–HV;Generation points per 1,000 consumption points;ASIDI;97;0.126;-0.076;0.318;0.219;0.480;FALSE
+LV–MV–HV;Vertical exchange intensity;ICPS;91;0.099;-0.110;0.299;0.352;0.576;FALSE
+LV–MV–HV;Vertical exchange intensity;SAIDI;91;-0.112;-0.312;0.096;0.289;0.545;FALSE
+LV–MV–HV;Vertical exchange intensity;ASIDI;91;-0.039;-0.243;0.169;0.715;0.870;FALSE
+LV–MV–HV;GIS coverage of LV network;ICPS;97;-0.214;-0.398;-0.012;0.036;0.186;FALSE
+LV–MV–HV;GIS coverage of LV network;SAIDI;97;0.304;0.106;0.478;0.002;0.056;TRUE
+LV–MV–HV;GIS coverage of LV network;ASIDI;97;0.096;-0.106;0.290;0.349;0.576;FALSE
+LV–MV–HV;GIS coverage of MV network;ICPS;97;-0.285;-0.461;-0.086;0.005;0.062;TRUE
+LV–MV–HV;GIS coverage of MV network;SAIDI;97;0.226;0.026;0.410;0.026;0.161;FALSE
+LV–MV–HV;GIS coverage of MV network;ASIDI;97;0.240;0.039;0.421;0.018;0.128;FALSE
+LV–MV–HV;GIS coverage of HV network;ICPS;96;-0.220;-0.405;-0.018;0.031;0.180;FALSE
+LV–MV–HV;GIS coverage of HV network;SAIDI;96;0.096;-0.107;0.291;0.354;0.576;FALSE
+LV–MV–HV;GIS coverage of HV network;ASIDI;96;0.255;0.054;0.436;0.012;0.114;FALSE
+LV–MV–HV;Share of non-remote maximum-demand meters;ICPS;94;-0.306;-0.483;-0.106;0.003;0.056;TRUE
+LV–MV–HV;Share of non-remote maximum-demand meters;SAIDI;94;0.300;0.099;0.477;0.003;0.058;TRUE
+LV–MV–HV;Share of non-remote maximum-demand meters;ASIDI;94;0.196;-0.008;0.385;0.058;0.248;FALSE
+LV–MV–HV;Share of local substations with remote measurements at the transformer;ICPS;96;-0.053;-0.251;0.149;0.608;0.802;FALSE
+LV–MV–HV;Share of local substations with remote measurements at the transformer;SAIDI;96;-0.005;-0.205;0.196;0.961;0.979;FALSE
+LV–MV–HV;Share of local substations with remote measurements at the transformer;ASIDI;96;0.051;-0.151;0.249;0.619;0.805;FALSE
+LV–MV–HV;Share of local substations with remote measurements in the LV distribution board;ICPS;96;-0.007;-0.207;0.194;0.946;0.972;FALSE
+LV–MV–HV;Share of local substations with remote measurements in the LV distribution board;SAIDI;96;-0.072;-0.269;0.130;0.483;0.688;FALSE
+LV–MV–HV;Share of local substations with remote measurements in the LV distribution board;ASIDI;96;0.094;-0.109;0.290;0.360;0.580;FALSE
+LV–MV–HV;Share of LV lines with centralized online monitoring;ICPS;96;-0.075;-0.272;0.127;0.466;0.687;FALSE
+LV–MV–HV;Share of LV lines with centralized online monitoring;SAIDI;96;0.039;-0.163;0.238;0.706;0.864;FALSE
+LV–MV–HV;Share of LV lines with centralized online monitoring;ASIDI;96;0.063;-0.139;0.261;0.539;0.734;FALSE
+LV–MV–HV;Share of MV lines with centralized online monitoring;ICPS;96;0.023;-0.179;0.222;0.827;0.920;FALSE
+LV–MV–HV;Share of MV lines with centralized online monitoring;SAIDI;96;-0.096;-0.291;0.107;0.352;0.576;FALSE
+LV–MV–HV;Share of MV lines with centralized online monitoring;ASIDI;96;-0.001;-0.201;0.200;0.994;0.994;FALSE
+LV–MV–HV;Share of HV lines with centralized online monitoring;ICPS;96;-0.286;-0.463;-0.087;0.005;0.062;TRUE
+LV–MV–HV;Share of HV lines with centralized online monitoring;SAIDI;96;0.152;-0.051;0.344;0.138;0.378;FALSE
+LV–MV–HV;Share of HV lines with centralized online monitoring;ASIDI;96;0.288;0.089;0.465;0.004;0.062;TRUE
+LV–MV–HV;Share of MV/LV transformers with centralized online monitoring;ICPS;97;0.075;-0.127;0.271;0.465;0.687;FALSE
+LV–MV–HV;Share of MV/LV transformers with centralized online monitoring;SAIDI;97;-0.137;-0.328;0.065;0.181;0.428;FALSE
+LV–MV–HV;Share of MV/LV transformers with centralized online monitoring;ASIDI;97;-0.040;-0.238;0.161;0.698;0.859;FALSE
+LV–MV–HV;Share of HV/MV transformers with centralized online monitoring;ICPS;95;-0.284;-0.462;-0.083;0.005;0.065;TRUE
+LV–MV–HV;Share of HV/MV transformers with centralized online monitoring;SAIDI;95;0.156;-0.048;0.348;0.130;0.374;FALSE
+LV–MV–HV;Share of HV/MV transformers with centralized online monitoring;ASIDI;95;0.266;0.064;0.446;0.009;0.092;TRUE
+LV–MV–HV;Share of LV network equipment with centralized control;ICPS;95;-0.021;-0.221;0.181;0.841;0.928;FALSE
+LV–MV–HV;Share of LV network equipment with centralized control;SAIDI;95;0.083;-0.121;0.280;0.425;0.647;FALSE
+LV–MV–HV;Share of LV network equipment with centralized control;ASIDI;95;-0.043;-0.243;0.160;0.676;0.846;FALSE
+LV–MV–HV;Share of MV network equipment with centralized control;ICPS;96;0.122;-0.082;0.315;0.238;0.504;FALSE
+LV–MV–HV;Share of MV network equipment with centralized control;SAIDI;96;-0.116;-0.310;0.087;0.260;0.526;FALSE
+LV–MV–HV;Share of MV network equipment with centralized control;ASIDI;96;-0.123;-0.317;0.080;0.231;0.502;FALSE
+LV–MV–HV;Share of HV network equipment with centralized control;ICPS;94;-0.175;-0.366;0.030;0.092;0.304;FALSE
+LV–MV–HV;Share of HV network equipment with centralized control;SAIDI;94;0.238;0.034;0.422;0.021;0.140;FALSE
+LV–MV–HV;Share of HV network equipment with centralized control;ASIDI;94;0.067;-0.138;0.266;0.521;0.723;FALSE
+LV–MV–HV;Share of MV/LV substations with centralized control;ICPS;96;-0.110;-0.304;0.093;0.286;0.545;FALSE
+LV–MV–HV;Share of MV/LV substations with centralized control;SAIDI;96;0.107;-0.096;0.302;0.298;0.548;FALSE
+LV–MV–HV;Share of MV/LV substations with centralized control;ASIDI;96;-0.017;-0.217;0.184;0.868;0.930;FALSE
+LV–MV–HV;Share of HV/MV substations with centralized control;ICPS;94;-0.132;-0.327;0.073;0.203;0.459;FALSE
+LV–MV–HV;Share of HV/MV substations with centralized control;SAIDI;94;0.195;-0.009;0.385;0.059;0.248;FALSE
+LV–MV–HV;Share of HV/MV substations with centralized control;ASIDI;94;-0.034;-0.235;0.170;0.745;0.882;FALSE
+LV–MV–HV;DG capacity relative to peak LV load;ICPS;96;-0.027;-0.226;0.174;0.793;0.905;FALSE
+LV–MV–HV;DG capacity relative to peak LV load;SAIDI;96;-0.180;-0.368;0.023;0.080;0.281;FALSE
+LV–MV–HV;DG capacity relative to peak LV load;ASIDI;96;0.250;0.049;0.432;0.014;0.123;FALSE
+LV–MV–HV;DG capacity relative to peak MV load;ICPS;97;-0.032;-0.230;0.168;0.752;0.886;FALSE
+LV–MV–HV;DG capacity relative to peak MV load;SAIDI;97;-0.158;-0.347;0.044;0.123;0.365;FALSE
+LV–MV–HV;DG capacity relative to peak MV load;ASIDI;97;0.263;0.064;0.442;0.009;0.092;TRUE
+LV–MV–HV;DG capacity relative to peak HV load;ICPS;92;-0.510;-0.655;-0.329;<0.001;<0.001;TRUE
+LV–MV–HV;DG capacity relative to peak HV load;SAIDI;92;0.245;0.039;0.430;0.019;0.129;FALSE
+LV–MV–HV;DG capacity relative to peak HV load;ASIDI;92;0.541;0.365;0.679;<0.001;<0.001;TRUE
+LV–MV–HV;DG capacity utilization factor (CUF) at LV level;ICPS;94;-0.152;-0.345;0.053;0.144;0.378;FALSE
+LV–MV–HV;DG capacity utilization factor (CUF) at LV level;SAIDI;94;0.015;-0.188;0.217;0.888;0.934;FALSE
+LV–MV–HV;DG capacity utilization factor (CUF) at LV level;ASIDI;94;0.217;0.013;0.404;0.035;0.186;FALSE
+LV–MV–HV;DG CUF at MV level;ICPS;95;-0.062;-0.260;0.142;0.551;0.744;FALSE
+LV–MV–HV;DG CUF at MV level;SAIDI;95;0.016;-0.186;0.217;0.880;0.931;FALSE
+LV–MV–HV;DG CUF at MV level;ASIDI;95;0.072;-0.131;0.270;0.487;0.688;FALSE
+LV–MV–HV;DG capacity utilization factor (CUF) at HV level;ICPS;36;0.084;-0.252;0.402;0.627;0.805;FALSE
+LV–MV–HV;DG capacity utilization factor (CUF) at HV level;SAIDI;36;-0.182;-0.484;0.159;0.288;0.545;FALSE
+LV–MV–HV;DG capacity utilization factor (CUF) at HV level;ASIDI;36;0.050;-0.284;0.372;0.773;0.890;FALSE
+LV–MV–HV;Share of solar generation at LV level;ICPS;94;0.177;-0.029;0.368;0.089;0.298;FALSE
+LV–MV–HV;Share of solar generation at LV level;SAIDI;94;-0.105;-0.302;0.100;0.312;0.558;FALSE
+LV–MV–HV;Share of solar generation at LV level;ASIDI;94;-0.188;-0.378;0.017;0.069;0.266;FALSE
+LV–MV–HV;Share of wind generation at LV level;ICPS;93;-0.429;-0.588;-0.238;<0.001;0.001;TRUE
+LV–MV–HV;Share of wind generation at LV level;SAIDI;93;0.300;0.098;0.479;0.003;0.058;TRUE
+LV–MV–HV;Share of wind generation at LV level;ASIDI;93;0.414;0.221;0.575;<0.001;0.002;TRUE
+LV–MV–HV;Share of other RES at LV level;ICPS;92;-0.175;-0.368;0.032;0.095;0.306;FALSE
+LV–MV–HV;Share of other RES at LV level;SAIDI;92;0.088;-0.120;0.288;0.405;0.625;FALSE
+LV–MV–HV;Share of other RES at LV level;ASIDI;92;0.197;-0.010;0.388;0.060;0.248;FALSE
+LV–MV–HV;Share of solar generation at MV level;ICPS;95;0.073;-0.130;0.271;0.480;0.688;FALSE
+LV–MV–HV;Share of solar generation at MV level;SAIDI;95;0.004;-0.197;0.206;0.967;0.980;FALSE
+LV–MV–HV;Share of solar generation at MV level;ASIDI;95;-0.109;-0.305;0.095;0.292;0.547;FALSE
+LV–MV–HV;Share of wind generation at MV level;ICPS;94;-0.186;-0.376;0.019;0.073;0.275;FALSE
+LV–MV–HV;Share of wind generation at MV level;SAIDI;94;0.019;-0.184;0.221;0.853;0.929;FALSE
+LV–MV–HV;Share of wind generation at MV level;ASIDI;94;0.316;0.116;0.491;0.002;0.052;TRUE
+LV–MV–HV;Share of other RES at MV level;ICPS;94;-0.016;-0.218;0.187;0.877;0.931;FALSE
+LV–MV–HV;Share of other RES at MV level;SAIDI;94;0.048;-0.156;0.249;0.644;0.816;FALSE
+LV–MV–HV;Share of other RES at MV level;ASIDI;94;-0.056;-0.256;0.148;0.590;0.788;FALSE
+LV–MV–HV;Share of solar generation at HV level;ICPS;36;-0.298;-0.576;0.041;0.077;0.281;FALSE
+LV–MV–HV;Share of solar generation at HV level;SAIDI;36;0.307;-0.031;0.583;0.068;0.266;FALSE
+LV–MV–HV;Share of solar generation at HV level;ASIDI;36;0.126;-0.212;0.438;0.463;0.687;FALSE
+LV–MV–HV;Share of wind generation at HV level;ICPS;36;0.030;-0.301;0.355;0.860;0.929;FALSE
+LV–MV–HV;Share of wind generation at HV level;SAIDI;36;-0.050;-0.373;0.283;0.771;0.890;FALSE
+LV–MV–HV;Share of wind generation at HV level;ASIDI;36;0.031;-0.300;0.356;0.856;0.929;FALSE
+LV–MV–HV;Share of other RES at HV level;ICPS;36;-0.147;-0.455;0.193;0.392;0.618;FALSE
+LV–MV–HV;Share of other RES at HV level;SAIDI;36;-0.028;-0.353;0.303;0.870;0.930;FALSE
+LV–MV–HV;Share of other RES at HV level;ASIDI;36;0.215;-0.126;0.510;0.209;0.462;FALSE
+LV–MV–HV;Average capacity of solar connection applications at LV level;ICPS;88;-0.085;-0.289;0.128;0.434;0.655;FALSE
+LV–MV–HV;Average capacity of solar connection applications at LV level;SAIDI;88;-0.008;-0.217;0.202;0.942;0.972;FALSE
+LV–MV–HV;Average capacity of solar connection applications at LV level;ASIDI;88;0.075;-0.137;0.280;0.487;0.688;FALSE
+LV–MV–HV;Average capacity of wind connection applications at LV level;ICPS;21;0.208;-0.251;0.590;0.366;0.583;FALSE
+LV–MV–HV;Average capacity of wind connection applications at LV level;SAIDI;21;-0.227;-0.604;0.232;0.321;0.559;FALSE
+LV–MV–HV;Average capacity of wind connection applications at LV level;ASIDI;21;-0.058;-0.478;0.384;0.803;0.911;FALSE
+LV–MV–HV;Average capacity of other RES connection applications at LV level;ICPS;34;0.233;-0.118;0.533;0.184;0.428;FALSE
+LV–MV–HV;Average capacity of other RES connection applications at LV level;SAIDI;34;-0.001;-0.339;0.337;0.994;0.994;FALSE
+LV–MV–HV;Average capacity of other RES connection applications at LV level;ASIDI;34;-0.347;-0.620;0.000;0.044;0.215;FALSE
+LV–MV–HV;Average capacity of solar connection applications at MV level;ICPS;82;-0.210;-0.410;0.010;0.058;0.248;FALSE
+LV–MV–HV;Average capacity of solar connection applications at MV level;SAIDI;82;-0.037;-0.252;0.181;0.741;0.882;FALSE
+LV–MV–HV;Average capacity of solar connection applications at MV level;ASIDI;82;0.326;0.112;0.511;0.003;0.056;TRUE
+LV–MV–HV;Average capacity of wind connection applications at MV level;ICPS;35;0.040;-0.297;0.369;0.819;0.920;FALSE
+LV–MV–HV;Average capacity of wind connection applications at MV level;SAIDI;35;-0.222;-0.520;0.125;0.201;0.458;FALSE
+LV–MV–HV;Average capacity of wind connection applications at MV level;ASIDI;35;0.063;-0.277;0.388;0.720;0.872;FALSE
+LV–MV–HV;Average capacity of other RES connection applications at MV level;ICPS;32;-0.074;-0.413;0.282;0.687;0.852;FALSE
+LV–MV–HV;Average capacity of other RES connection applications at MV level;SAIDI;32;0.036;-0.317;0.380;0.844;0.928;FALSE
+LV–MV–HV;Average capacity of other RES connection applications at MV level;ASIDI;32;0.176;-0.187;0.496;0.336;0.567;FALSE
+LV–MV–HV;Average capacity of solar connection applications at HV level;ICPS;23;-0.412;-0.714;0.018;0.051;0.231;FALSE
+LV–MV–HV;Average capacity of solar connection applications at HV level;SAIDI;23;-0.020;-0.429;0.396;0.929;0.968;FALSE
+LV–MV–HV;Average capacity of solar connection applications at HV level;ASIDI;23;0.655;0.292;0.853;<0.001;0.030;TRUE
+LV–MV–HV;Average capacity of wind connection applications at HV level;ICPS;22;0.219;-0.229;0.590;0.329;0.562;FALSE
+LV–MV–HV;Average capacity of wind connection applications at HV level;SAIDI;22;-0.321;-0.661;0.127;0.145;0.378;FALSE
+LV–MV–HV;Average capacity of wind connection applications at HV level;ASIDI;22;0.003;-0.419;0.424;0.990;0.994;FALSE
+LV–MV–HV;Duration of generation connection to LV network;ICPS;79;-0.035;-0.255;0.187;0.757;0.886;FALSE
+LV–MV–HV;Duration of generation connection to LV network;SAIDI;79;0.159;-0.065;0.369;0.161;0.396;FALSE
+LV–MV–HV;Duration of generation connection to LV network;ASIDI;79;-0.061;-0.278;0.163;0.594;0.789;FALSE
+LV–MV–HV;Duration of generation connection to MV network;ICPS;71;-0.188;-0.405;0.050;0.117;0.350;FALSE
+LV–MV–HV;Duration of generation connection to MV network;SAIDI;71;0.117;-0.120;0.342;0.331;0.562;FALSE
+LV–MV–HV;Duration of generation connection to MV network;ASIDI;71;0.160;-0.077;0.381;0.182;0.428;FALSE
+LV–MV–HV;Duration of generation connection to HV network;ICPS;15;0.189;-0.362;0.643;0.499;0.696;FALSE
+LV–MV–HV;Duration of generation connection to HV network;SAIDI;15;-0.096;-0.581;0.439;0.732;0.881;FALSE
+LV–MV–HV;Duration of generation connection to HV network;ASIDI;15;-0.196;-0.647;0.356;0.483;0.688;FALSE
+LV–MV–HV;Peak LV load per LV consumer;ICPS;97;0.005;-0.194;0.205;0.959;0.979;FALSE
+LV–MV–HV;Peak LV load per LV consumer;SAIDI;97;-0.213;-0.397;-0.011;0.037;0.186;FALSE
+LV–MV–HV;Peak LV load per LV consumer;ASIDI;97;0.116;-0.086;0.309;0.257;0.526;FALSE
+LV–MV–HV;Peak MV load per MV consumer;ICPS;97;0.163;-0.039;0.352;0.110;0.335;FALSE
+LV–MV–HV;Peak MV load per MV consumer;SAIDI;97;-0.112;-0.305;0.090;0.276;0.544;FALSE
+LV–MV–HV;Peak MV load per MV consumer;ASIDI;97;-0.222;-0.405;-0.021;0.029;0.176;FALSE
+LV–MV–HV;Peak HV load per HV consumer;ICPS;56;0.060;-0.206;0.318;0.660;0.831;FALSE
+LV–MV–HV;Peak HV load per HV consumer;SAIDI;56;-0.032;-0.293;0.233;0.813;0.918;FALSE
+LV–MV–HV;Peak HV load per HV consumer;ASIDI;56;-0.055;-0.313;0.211;0.688;0.852;FALSE
+LV–MV–HV;Share of EV charging stations in peak LV load;ICPS;94;0.155;-0.051;0.348;0.136;0.378;FALSE
+LV–MV–HV;Share of EV charging stations in peak LV load;SAIDI;94;-0.154;-0.347;0.051;0.138;0.378;FALSE
+LV–MV–HV;Share of EV charging stations in peak LV load;ASIDI;94;-0.035;-0.236;0.169;0.737;0.882;FALSE
+LV–MV–HV;Share of EV charging stations in peak MV load;ICPS;89;0.086;-0.125;0.290;0.422;0.646;FALSE
+LV–MV–HV;Share of EV charging stations in peak MV load;SAIDI;89;-0.099;-0.302;0.112;0.355;0.576;FALSE
+LV–MV–HV;Share of EV charging stations in peak MV load;ASIDI;89;0.023;-0.186;0.231;0.828;0.920;FALSE
+LV–MV–HV;Share of heat pumps in peak LV load;ICPS;94;0.014;-0.189;0.216;0.892;0.934;FALSE
+LV–MV–HV;Share of heat pumps in peak LV load;SAIDI;94;-0.112;-0.309;0.093;0.281;0.545;FALSE
+LV–MV–HV;Share of heat pumps in peak LV load;ASIDI;94;0.149;-0.057;0.342;0.152;0.383;FALSE
+LV–MV–HV;LV connection applications per 1,000 LV consumers;ICPS;91;-0.194;-0.386;0.014;0.065;0.260;FALSE
+LV–MV–HV;LV connection applications per 1,000 LV consumers;SAIDI;91;0.096;-0.113;0.296;0.367;0.583;FALSE
+LV–MV–HV;LV connection applications per 1,000 LV consumers;ASIDI;91;0.214;0.006;0.404;0.042;0.208;FALSE
+LV–MV–HV;New/upgraded LV connection points per 1,000 LV points;ICPS;94;-0.182;-0.372;0.023;0.080;0.281;FALSE
+LV–MV–HV;New/upgraded LV connection points per 1,000 LV points;SAIDI;94;0.087;-0.118;0.285;0.403;0.625;FALSE
+LV–MV–HV;New/upgraded LV connection points per 1,000 LV points;ASIDI;94;0.167;-0.038;0.359;0.107;0.330;FALSE
+LV–MV–HV;Duration of consumer connection to LV network;ICPS;79;0.070;-0.154;0.287;0.539;0.734;FALSE
+LV–MV–HV;Duration of consumer connection to LV network;SAIDI;79;0.097;-0.128;0.312;0.396;0.620;FALSE
+LV–MV–HV;Duration of consumer connection to LV network;ASIDI;79;-0.184;-0.390;0.041;0.105;0.330;FALSE
+LV–MV–HV;Share of implemented consumer connection applications at LV level;ICPS;87;0.108;-0.106;0.312;0.321;0.559;FALSE
+LV–MV–HV;Share of implemented consumer connection applications at LV level;SAIDI;87;-0.031;-0.240;0.181;0.774;0.890;FALSE
+LV–MV–HV;Share of implemented consumer connection applications at LV level;ASIDI;87;-0.107;-0.311;0.107;0.324;0.559;FALSE
+LV–MV–HV;MV connection applications per 1,000 MV consumers;ICPS;92;-0.052;-0.254;0.155;0.624;0.805;FALSE
+LV–MV–HV;MV connection applications per 1,000 MV consumers;SAIDI;92;0.009;-0.196;0.213;0.934;0.970;FALSE
+LV–MV–HV;MV connection applications per 1,000 MV consumers;ASIDI;92;0.051;-0.156;0.253;0.632;0.805;FALSE
+LV–MV–HV;New/upgraded MV connection points per 1,000 MV points;ICPS;91;0.142;-0.067;0.339;0.181;0.428;FALSE
+LV–MV–HV;New/upgraded MV connection points per 1,000 MV points;SAIDI;91;-0.228;-0.417;-0.020;0.030;0.176;FALSE
+LV–MV–HV;New/upgraded MV connection points per 1,000 MV points;ASIDI;91;0.076;-0.133;0.278;0.476;0.688;FALSE
+LV–MV–HV;Duration of consumer connection to MV network;ICPS;59;-0.148;-0.391;0.113;0.262;0.526;FALSE
+LV–MV–HV;Duration of consumer connection to MV network;SAIDI;59;0.066;-0.193;0.317;0.617;0.805;FALSE
+LV–MV–HV;Duration of consumer connection to MV network;ASIDI;59;0.185;-0.077;0.423;0.161;0.396;FALSE
+LV–MV–HV;Share of implemented consumer connection applications at MV level;ICPS;73;0.176;-0.058;0.392;0.135;0.378;FALSE
+LV–MV–HV;Share of implemented consumer connection applications at MV level;SAIDI;73;-0.140;-0.360;0.094;0.236;0.504;FALSE
+LV–MV–HV;Share of implemented consumer connection applications at MV level;ASIDI;73;-0.117;-0.339;0.117;0.324;0.559;FALSE
+LV–MV–HV;BESS capacity relative to peak LV load;ICPS;95;-0.117;-0.312;0.087;0.259;0.526;FALSE
+LV–MV–HV;BESS capacity relative to peak LV load;SAIDI;95;-0.075;-0.273;0.128;0.467;0.687;FALSE
+LV–MV–HV;BESS capacity relative to peak LV load;ASIDI;95;0.280;0.079;0.459;0.006;0.069;TRUE
+LV–MV–HV;BESS capacity relative to peak MV load;ICPS;89;-0.250;-0.438;-0.041;0.018;0.128;FALSE
+LV–MV–HV;BESS capacity relative to peak MV load;SAIDI;89;0.146;-0.066;0.345;0.173;0.421;FALSE
+LV–MV–HV;BESS capacity relative to peak MV load;ASIDI;89;0.264;0.055;0.450;0.013;0.114;FALSE
+LV–MV–HV;BESS connection applications per 1,000 LV consumers;ICPS;89;-0.153;-0.352;0.058;0.151;0.383;FALSE
+LV–MV–HV;BESS connection applications per 1,000 LV consumers;SAIDI;89;-0.019;-0.226;0.190;0.861;0.929;FALSE
+LV–MV–HV;BESS connection applications per 1,000 LV consumers;ASIDI;89;0.296;0.089;0.479;0.005;0.062;TRUE
+LV–MV–HV;BESS connection applications per 1,000 MV consumers;ICPS;88;-0.241;-0.432;-0.031;0.024;0.151;FALSE
+LV–MV–HV;BESS connection applications per 1,000 MV consumers;SAIDI;88;0.139;-0.074;0.339;0.198;0.457;FALSE
+LV–MV–HV;BESS connection applications per 1,000 MV consumers;ASIDI;88;0.256;0.045;0.444;0.016;0.126;FALSE
+LV–MV–HV;Processing time of connection requests for consumption devices and storage at LV level;ICPS;79;0.071;-0.153;0.288;0.533;0.734;FALSE
+LV–MV–HV;Processing time of connection requests for consumption devices and storage at LV level;SAIDI;79;0.124;-0.100;0.337;0.275;0.544;FALSE
+LV–MV–HV;Processing time of connection requests for consumption devices and storage at LV level;ASIDI;79;-0.221;-0.424;0.003;0.050;0.231;FALSE
+LV–MV–HV;Processing time of connection requests for consumption devices and storage at MV level;ICPS;59;-0.313;-0.531;-0.056;0.016;0.126;FALSE
+LV–MV–HV;Processing time of connection requests for consumption devices and storage at MV level;SAIDI;59;0.231;-0.030;0.463;0.078;0.281;FALSE
+LV–MV–HV;Processing time of connection requests for consumption devices and storage at MV level;ASIDI;59;0.310;0.053;0.529;0.017;0.126;FALSE
+LV–MV–HV;Prosumers in full market mode per 1,000 LV consumers;ICPS;68;-0.144;-0.371;0.099;0.240;0.504;FALSE
+LV–MV–HV;Prosumers in full market mode per 1,000 LV consumers;SAIDI;68;0.131;-0.112;0.359;0.286;0.545;FALSE
+LV–MV–HV;Prosumers in full market mode per 1,000 LV consumers;ASIDI;68;0.126;-0.116;0.355;0.304;0.551;FALSE
+LV–MV–HV;Time to switch prosumers to full market mode;ICPS;48;-0.101;-0.375;0.190;0.496;0.696;FALSE
+LV–MV–HV;Time to switch prosumers to full market mode;SAIDI;48;-0.154;-0.422;0.137;0.295;0.547;FALSE
+LV–MV–HV;Time to switch prosumers to full market mode;ASIDI;48;0.307;0.018;0.548;0.034;0.186;FALSE
+LV–MV–HV;Level of automation of prosumer switching;ICPS;66;-0.212;-0.434;0.035;0.088;0.298;FALSE
+LV–MV–HV;Level of automation of prosumer switching;SAIDI;66;0.060;-0.185;0.298;0.631;0.805;FALSE
+LV–MV–HV;Level of automation of prosumer switching;ASIDI;66;0.208;-0.039;0.430;0.094;0.306;FALSE
+LV–MV–HV;Consumers with dynamic tariffs per 1,000 LV consumers;ICPS;67;-0.201;-0.423;0.044;0.103;0.328;FALSE
+LV–MV–HV;Consumers with dynamic tariffs per 1,000 LV consumers;SAIDI;67;0.157;-0.088;0.384;0.206;0.460;FALSE
+LV–MV–HV;Consumers with dynamic tariffs per 1,000 LV consumers;ASIDI;67;0.293;0.051;0.502;0.016;0.126;FALSE

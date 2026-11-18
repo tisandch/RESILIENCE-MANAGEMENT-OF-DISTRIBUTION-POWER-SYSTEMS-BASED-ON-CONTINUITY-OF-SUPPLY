@@ -1,0 +1,3 @@
+﻿DPS type;Scenario;N;Zero ASIDI n;Excluded zero-ASIDI operators;Baseline zero ASIDI share (%);Tests in BH family;Baseline selected features;Retained features (same sign, p < 0.10);Lost features (p retention rule);Feature retention (%);Retained SAIDI-selected features;Baseline SAIDI-selected features;Retained other features;Baseline other features;Scenario FDR-selected features;Baseline features also FDR-selected;Baseline features not FDR-selected;New FDR-selected features
+LV–MV;Baseline: all complete LV-MV operators;669;259;0;38.71;192;30;30;0;100.00;16;16;14;14;30;30;0;0
+LV–MV;ASIDI > 0: ICPS refitted;410;0;259;38.71;192;30;16;14;53.33;13;16;3;14;16;12;18;4

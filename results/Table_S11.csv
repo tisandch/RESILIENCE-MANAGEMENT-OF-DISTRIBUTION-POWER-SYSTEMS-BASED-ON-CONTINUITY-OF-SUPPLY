@@ -1,0 +1,7 @@
+﻿DPS type;Scenario;N;Baseline selected features;Retained features (same sign, p < 0.10);Lost features (p retention rule);Feature retention (%);Scenario FDR-selected features;Baseline features not FDR-selected;New FDR-selected features;Baseline ICPS-associated features;ICPS features retaining a baseline ICPS link at p < 0.10
+LV–MV;Baseline: capped entropy ICPS;669;30;30;0;100.0;30;0;0;18;18
+LV–MV;Equal weights: capped ICPS;669;30;30;0;100.0;30;0;0;18;18
+LV–MV;Uncapped entropy ICPS;669;30;30;0;100.0;30;0;0;18;17
+LV–MV–HV;Baseline: capped entropy ICPS;97;16;16;0;100.0;16;0;0;6;6
+LV–MV–HV;Equal weights: capped ICPS;97;16;16;0;100.0;16;0;0;6;6
+LV–MV–HV;Uncapped entropy ICPS;97;16;16;0;100.0;17;0;1;6;6

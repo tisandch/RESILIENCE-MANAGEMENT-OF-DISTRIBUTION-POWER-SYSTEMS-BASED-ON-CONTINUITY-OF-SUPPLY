@@ -1,0 +1,67 @@
+﻿Indicator;n LV–MV;n LV–MV–HV;Median LV–MV;Median LV–MV–HV;P(LV–MV–HV > LV–MV), %;Rank-biserial r;p;q;Differs (q < 0.10)
+LV network density;669;97;21.441;24.485;57.6;0.151;0.0158;0.0282;TRUE
+MV network density;663;97;2.347;2.795;51.4;0.027;0.6666;0.7457;FALSE
+Ratio of LV to MV network length;669;97;2.495;1.902;29.7;−0.406;<0.0001;<0.0001;TRUE
+Network length per consumption point;669;97;53.406;55.399;55.3;0.105;0.0941;0.1478;FALSE
+Network length per generation point;667;97;342.000;458.505;66.1;0.321;<0.0001;<0.0001;TRUE
+Generation points per 1,000 consumption points;669;97;151.291;133.608;39.4;−0.211;0.0008;0.0019;TRUE
+Vertical exchange intensity;636;91;0.992;1.000;48.8;−0.023;0.7203;0.7668;FALSE
+GIS coverage of LV network;667;97;100.000;100.000;61.0;0.221;<0.0001;<0.0001;TRUE
+GIS coverage of MV network;667;97;100.000;100.000;57.2;0.144;0.0011;0.0026;TRUE
+GIS coverage of HV network †;285;96;0.000;100.000;97.4;0.947;<0.0001;<0.0001;TRUE
+Share of non-remote maximum-demand meters;661;94;80.000;90.000;58.5;0.171;0.0058;0.0123;TRUE
+Share of local substations with remote measurements at the transformer;659;96;10.000;10.000;54.3;0.085;0.1481;0.2173;FALSE
+Share of local substations with remote measurements in the LV distribution board;657;96;10.000;10.000;53.9;0.078;0.1881;0.2586;FALSE
+Share of LV lines with centralized online monitoring;667;96;10.000;5.000;48.5;−0.029;0.6135;0.7104;FALSE
+Share of MV lines with centralized online monitoring;664;96;30.000;45.000;62.1;0.242;<0.0001;0.0003;TRUE
+Share of HV lines with centralized online monitoring †;278;96;0.000;100.000;96.8;0.936;<0.0001;<0.0001;TRUE
+Share of MV/LV transformers with centralized online monitoring;661;97;10.000;10.000;57.8;0.156;0.0100;0.0184;TRUE
+Share of HV/MV transformers with centralized online monitoring †;386;95;0.000;100.000;80.7;0.614;<0.0001;<0.0001;TRUE
+Share of LV network equipment with centralized control;665;95;0.000;0.000;49.1;−0.019;0.5467;0.6560;FALSE
+Share of MV network equipment with centralized control;664;96;10.000;30.000;72.0;0.440;<0.0001;<0.0001;TRUE
+Share of HV network equipment with centralized control †;282;94;0.000;100.000;94.6;0.892;<0.0001;<0.0001;TRUE
+Share of MV/LV substations with centralized control;657;96;0.000;0.000;58.4;0.168;0.0002;0.0004;TRUE
+Share of HV/MV substations with centralized control †;386;94;0.000;100.000;82.1;0.642;<0.0001;<0.0001;TRUE
+DG capacity relative to peak LV load;659;96;1.344;0.823;33.3;−0.334;<0.0001;<0.0001;TRUE
+DG capacity relative to peak MV load;648;97;0.467;0.383;49.9;−0.002;0.9772;0.9772;FALSE
+DG capacity utilization factor (CUF) at LV level;666;94;6.803;6.145;41.5;−0.169;0.0078;0.0156;TRUE
+DG capacity utilization factor (CUF) at MV level;591;95;12.037;15.986;58.8;0.175;0.0061;0.0127;TRUE
+Share of solar generation at LV level;667;94;99.185;99.211;50.8;0.016;0.7956;0.8234;FALSE
+Share of wind generation at LV level;632;93;0.000;0.000;63.7;0.274;<0.0001;<0.0001;TRUE
+Share of other RES at LV level;643;92;0.836;0.765;48.9;−0.023;0.7176;0.7668;FALSE
+Share of solar generation at MV level;591;95;77.717;58.718;36.4;−0.271;<0.0001;<0.0001;TRUE
+Share of wind generation at MV level;565;94;0.000;16.077;67.1;0.341;<0.0001;<0.0001;TRUE
+Share of other RES at MV level;572;94;7.581;11.047;58.2;0.163;0.0100;0.0184;TRUE
+Average capacity of solar connection applications at LV level;642;88;11.328;12.271;53.1;0.063;0.3406;0.4323;FALSE
+Average capacity of wind connection applications at LV level;22;21;2.000;2.167;46.6;−0.067;0.7136;0.7668;FALSE
+Average capacity of other RES connection applications at LV level;95;34;20.000;31.833;58.0;0.159;0.1703;0.2391;FALSE
+Average capacity of solar connection applications at MV level;400;82;539.062;1,170.569;62.0;0.240;0.0006;0.0016;TRUE
+Average capacity of wind connection applications at MV level;65;35;7,500.000;9,760.000;56.7;0.134;0.2720;0.3590;FALSE
+Average capacity of other RES connection applications at MV level;52;32;442.000;885.117;65.2;0.303;0.0203;0.0352;TRUE
+Duration of generation connection to LV network;603;79;38.000;42.000;52.8;0.057;0.4124;0.5135;FALSE
+Duration of generation connection to MV network;273;71;137.367;169.000;54.1;0.082;0.2854;0.3693;FALSE
+Peak LV load per LV consumer;661;97;0.733;0.649;37.4;−0.253;<0.0001;0.0002;TRUE
+Peak MV load per MV consumer;642;97;404.135;392.205;47.9;−0.042;0.4998;0.6108;FALSE
+Share of EV charging stations in peak LV load;641;94;19.223;23.188;53.8;0.076;0.2330;0.3139;FALSE
+Share of EV charging stations in peak MV load;587;89;0.000;1.695;60.1;0.203;0.0010;0.0023;TRUE
+Share of heat pumps in peak LV load;632;94;7.927;7.447;50.2;0.005;0.9399;0.9544;FALSE
+LV connection applications per 1,000 LV consumers;644;91;12.389;8.946;42.8;−0.143;0.0269;0.0455;TRUE
+New/upgraded LV connection points per 1,000 LV points;623;94;4.694;5.241;55.1;0.101;0.1130;0.1735;FALSE
+Duration of consumer connection to LV network;568;79;30.500;38.000;54.9;0.097;0.1606;0.2304;FALSE
+Share of implemented consumer connection applications at LV level;605;87;100.000;65.400;37.8;−0.245;<0.0001;0.0002;TRUE
+MV connection applications per 1,000 MV consumers;598;92;7.435;28.931;64.4;0.288;<0.0001;<0.0001;TRUE
+New/upgraded MV connection points per 1,000 MV points;611;91;6.122;8.593;54.9;0.098;0.1188;0.1781;FALSE
+Duration of consumer connection to MV network;188;59;120.000;160.000;52.3;0.046;0.5936;0.6996;FALSE
+Share of implemented consumer connection applications at MV level;217;73;100.000;83.300;40.6;−0.189;0.0088;0.0171;TRUE
+BESS capacity relative to peak LV load;638;95;187.382;158.778;43.6;−0.129;0.0428;0.0689;TRUE
+BESS capacity relative to peak MV load;574;89;0.000;0.149;69.6;0.392;<0.0001;<0.0001;TRUE
+BESS connection applications per 1,000 LV consumers;627;89;7.649;4.631;39.5;−0.210;0.0013;0.0029;TRUE
+BESS connection applications per 1,000 MV consumers;583;88;0.000;2.922;68.6;0.372;<0.0001;<0.0001;TRUE
+Processing time of connection requests for consumption devices and storage at LV level;568;79;10.000;11.000;51.7;0.033;0.6299;0.7168;FALSE
+Processing time of connection requests for consumption devices and storage at MV level;188;59;30.000;30.000;51.1;0.022;0.7985;0.8234;FALSE
+Prosumers in full market mode per 1,000 LV consumers;511;68;0.000;0.082;64.5;0.291;<0.0001;<0.0001;TRUE
+Consumers with dynamic tariffs per 1,000 LV consumers;507;67;0.000;0.000;64.0;0.279;<0.0001;<0.0001;TRUE
+Time to switch prosumers to full market mode;369;48;1.000;5.000;59.2;0.184;0.0288;0.0474;TRUE
+Level of automation of prosumer switching;434;66;0.000;0.000;63.1;0.263;<0.0001;<0.0001;TRUE
+SAIDI (LV), min/year;669;97;1.690;3.540;70.8;0.416;<0.0001;<0.0001;TRUE
+ASIDI (MV), min/year;669;97;1.060;4.730;68.6;0.372;<0.0001;<0.0001;TRUE

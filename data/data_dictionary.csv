@@ -1,0 +1,76 @@
+﻿no;variable;indicator;unit;dimension;construction;managerial_class
+1;lv_network_density_km_per_km2;LV network density;km/km²;Physical network architecture;LV circuit length ÷ supplied area;C1
+2;mv_network_density_km_per_km2;MV network density;km/km²;Physical network architecture;MV circuit length ÷ supplied area;C1
+3;lv_to_mv_network_length_ratio;Ratio of LV to MV network length;km/km;Physical network architecture;LV circuit length ÷ MV circuit length;C1
+4;network_length_per_consumption_point_m;Network length per consumption point;m/point;Physical network architecture;Total circuit length ÷ number of consumption connection points;C1
+5;network_length_per_generation_point_m;Network length per generation point;m/point;Physical network architecture;Total circuit length ÷ number of generation connection points;C1
+6;generation_points_per_1000_consumption_points;Generation points per 1,000 consumption points;units;Physical network architecture;Generation connection points ÷ consumption connection points × 1,000;C1
+7;vertical_exchange_intensity_kw_per_kw;Vertical exchange intensity;kW/kW;Physical network architecture;Power drawn from the upstream network ÷ peak load of the DSO;C2
+8;lv_gis_coverage_pct;GIS coverage of LV network;%;Operational controllability;Share of LV circuit length recorded in the geographic information system;C1
+9;mv_gis_coverage_pct;GIS coverage of MV network;%;Operational controllability;Share of MV circuit length recorded in the geographic information system;C1
+10;hv_gis_coverage_pct;GIS coverage of HV network;%;Operational controllability;Share of HV circuit length recorded in the geographic information system;C1
+11;non_remote_maximum_demand_meters_share_pct;Share of non-remote maximum-demand meters;%;Operational controllability;Share of local substations equipped with non-remote maximum-demand meters;C1
+12;local_substations_remote_transformer_measurements_share_pct;Share of local substations with remote measurements at the transformer;%;Operational controllability;Share of local substations with remote measurement at the transformer;C1
+13;local_substations_remote_lv_board_measurements_share_pct;Share of local substations with remote measurements in the LV distribution board;%;Operational controllability;Share of local substations with remote measurement in the LV distribution board;C1
+14;lv_lines_centralized_online_monitoring_share_pct;Share of LV lines with centralized online monitoring;%;Operational controllability;Share of LV lines under centralized online monitoring;C1
+15;mv_lines_centralized_online_monitoring_share_pct;Share of MV lines with centralized online monitoring;%;Operational controllability;Share of MV lines under centralized online monitoring;C1
+16;hv_lines_centralized_online_monitoring_share_pct;Share of HV lines with centralized online monitoring;%;Operational controllability;Share of HV lines under centralized online monitoring;C1
+17;mv_lv_transformers_centralized_online_monitoring_share_pct;Share of MV/LV transformers with centralized online monitoring;%;Operational controllability;Share of MV/LV transformers under centralized online monitoring;C1
+18;hv_mv_transformers_centralized_online_monitoring_share_pct;Share of HV/MV transformers with centralized online monitoring;%;Operational controllability;Share of HV/MV transformers under centralized online monitoring;C1
+19;lv_equipment_centralized_control_share_pct;Share of LV network equipment with centralized control;%;Operational controllability;Share of LV network equipment under centralized control;C1
+20;mv_equipment_centralized_control_share_pct;Share of MV network equipment with centralized control;%;Operational controllability;Share of MV network equipment under centralized control;C1
+21;hv_equipment_centralized_control_share_pct;Share of HV network equipment with centralized control;%;Operational controllability;Share of HV network equipment under centralized control;C1
+22;mv_lv_substations_centralized_control_share_pct;Share of MV/LV substations with centralized control;%;Operational controllability;Share of MV/LV substations under centralized control;C1
+23;hv_mv_substations_centralized_control_share_pct;Share of HV/MV substations with centralized control;%;Operational controllability;Share of HV/MV substations under centralized control;C1
+24;lv_dg_capacity_to_peak_load_kw_per_kw;DG capacity relative to peak LV load;kW/kW;Generation capacity;Installed DG capacity at LV ÷ peak LV load;C3
+25;mv_dg_capacity_to_peak_load_kw_per_kw;DG capacity relative to peak MV load;kW/kW;Generation capacity;Installed DG capacity at MV ÷ peak MV load;C3
+26;hv_dg_capacity_to_peak_load_kw_per_kw;DG capacity relative to peak HV load;kW/kW;Generation capacity;Installed DG capacity at HV ÷ peak HV load;C3
+27;lv_dg_capacity_utilization_factor_pct;DG capacity utilization factor (CUF) at LV level;%;Generation capacity;Annual generation at LV ÷ (installed DG capacity at LV × 8,760 h) × 100;C3
+28;mv_dg_capacity_utilization_factor_pct;DG capacity utilization factor (CUF) at MV level;%;Generation capacity;Annual generation at MV ÷ (installed DG capacity at MV × 8,760 h) × 100;C3
+29;hv_dg_capacity_utilization_factor_pct;DG capacity utilization factor (CUF) at HV level;%;Generation capacity;Annual generation at HV ÷ (installed DG capacity at HV × 8,760 h) × 100;C3
+30;lv_solar_generation_share_pct;Share of solar generation at LV level;%;Generation capacity;Installed solar capacity at LV ÷ installed DG capacity at LV × 100;C3
+31;lv_wind_generation_share_pct;Share of wind generation at LV level;%;Generation capacity;Installed wind capacity at LV ÷ installed DG capacity at LV × 100;C3
+32;lv_other_res_generation_share_pct;Share of other RES at LV level;%;Generation capacity;Installed other RES capacity at LV ÷ installed DG capacity at LV × 100;C3
+33;mv_solar_generation_share_pct;Share of solar generation at MV level;%;Generation capacity;Installed solar capacity at MV ÷ installed DG capacity at MV × 100;C3
+34;mv_wind_generation_share_pct;Share of wind generation at MV level;%;Generation capacity;Installed wind capacity at MV ÷ installed DG capacity at MV × 100;C3
+35;mv_other_res_generation_share_pct;Share of other RES at MV level;%;Generation capacity;Installed other RES capacity at MV ÷ installed DG capacity at MV × 100;C3
+36;hv_solar_generation_share_pct;Share of solar generation at HV level;%;Generation capacity;Installed solar capacity at HV ÷ installed DG capacity at HV × 100;C3
+37;hv_wind_generation_share_pct;Share of wind generation at HV level;%;Generation capacity;Installed wind capacity at HV ÷ installed DG capacity at HV × 100;C3
+38;hv_other_res_generation_share_pct;Share of other RES at HV level;%;Generation capacity;Installed other RES capacity at HV ÷ installed DG capacity at HV × 100;C3
+39;lv_solar_connection_application_avg_capacity_kw;Average capacity of solar connection applications at LV level;kW/point;Generation capacity;Requested solar capacity at LV ÷ number of solar connection applications at LV;C2
+40;lv_wind_connection_application_avg_capacity_kw;Average capacity of wind connection applications at LV level;kW/point;Generation capacity;Requested wind capacity at LV ÷ number of wind connection applications at LV;C2
+41;lv_other_res_connection_application_avg_capacity_kw;Average capacity of other RES connection applications at LV level;kW/point;Generation capacity;Requested other RES capacity at LV ÷ number of other RES applications at LV;C2
+42;mv_solar_connection_application_avg_capacity_kw;Average capacity of solar connection applications at MV level;kW/point;Generation capacity;Requested solar capacity at MV ÷ number of solar connection applications at MV;C2
+43;mv_wind_connection_application_avg_capacity_kw;Average capacity of wind connection applications at MV level;kW/point;Generation capacity;Requested wind capacity at MV ÷ number of wind connection applications at MV;C2
+44;mv_other_res_connection_application_avg_capacity_kw;Average capacity of other RES connection applications at MV level;kW/point;Generation capacity;Requested other RES capacity at MV ÷ number of other RES applications at MV;C2
+45;hv_solar_connection_application_avg_capacity_kw;Average capacity of solar connection applications at HV level;kW/point;Generation capacity;Requested solar capacity at HV ÷ number of solar connection applications at HV;C2
+46;hv_wind_connection_application_avg_capacity_kw;Average capacity of wind connection applications at HV level;kW/point;Generation capacity;Requested wind capacity at HV ÷ number of wind connection applications at HV;C2
+47;lv_generation_connection_duration_days;Duration of generation connection to LV network;days;Generation capacity;Reported total duration of generation connection to the LV network;C2
+48;mv_generation_connection_duration_days;Duration of generation connection to MV network;days;Generation capacity;Reported total duration of generation connection to the MV network;C2
+49;hv_generation_connection_duration_days;Duration of generation connection to HV network;days;Generation capacity;Reported total duration of generation connection to the HV network;C2
+50;lv_peak_load_per_consumer_kw;Peak LV load per LV consumer;kW/consumer;Consumer load;Peak LV load ÷ number of LV final consumers;C3
+51;mv_peak_load_per_consumer_kw;Peak MV load per MV consumer;kW/consumer;Consumer load;Peak MV load ÷ number of MV final consumers;C3
+52;hv_peak_load_per_consumer_kw;Peak HV load per HV consumer;kW/consumer;Consumer load;Peak HV load ÷ number of HV final consumers;C3
+53;lv_ev_charging_capacity_to_peak_load_pct;Share of EV charging stations in peak LV load;%;Consumer load;Connected charging-station capacity at LV ÷ peak LV load × 100;C2
+54;mv_ev_charging_capacity_to_peak_load_pct;Share of EV charging stations in peak MV load;%;Consumer load;Connected charging-station capacity at MV ÷ peak MV load × 100;C2
+55;lv_heat_pump_capacity_to_peak_load_pct;Share of heat pumps in peak LV load;%;Consumer load;Connected heat-pump capacity at LV ÷ peak LV load × 100;C2
+56;lv_connection_applications_per_1000_consumers;LV connection applications per 1,000 LV consumers;units;Consumer load;Qualified LV connection applications ÷ LV final consumers × 1,000;C2
+57;lv_new_or_upgraded_points_per_1000_existing_points;New/upgraded LV connection points per 1,000 LV points;units;Consumer load;New or upgraded LV connection points ÷ existing LV connection points × 1,000;C2
+58;lv_consumer_connection_duration_days;Duration of consumer connection to LV network;days;Consumer load;Reported duration of consumer connection to the LV network;C2
+59;lv_implemented_consumer_connection_applications_share_pct;Share of implemented consumer connection applications at LV level;%;Consumer load;Implemented LV connection applications ÷ qualified LV applications × 100;C2
+60;mv_connection_applications_per_1000_consumers;MV connection applications per 1,000 MV consumers;units;Consumer load;Qualified MV connection applications ÷ MV final consumers × 1,000;C2
+61;mv_new_or_upgraded_points_per_1000_existing_points;New/upgraded MV connection points per 1,000 MV points;units;Consumer load;New or upgraded MV connection points ÷ existing MV connection points × 1,000;C2
+62;mv_consumer_connection_duration_days;Duration of consumer connection to MV network;days;Consumer load;Reported duration of consumer connection to the MV network;C2
+63;mv_implemented_consumer_connection_applications_share_pct;Share of implemented consumer connection applications at MV level;%;Consumer load;Implemented MV connection applications ÷ qualified MV applications × 100;C2
+64;lv_bess_capacity_to_peak_load_kw_per_mw;BESS capacity relative to peak LV load;kW/MW;Flexibility;Installed BESS capacity at LV (kW) ÷ peak LV load (MW);C2
+65;mv_bess_capacity_to_peak_load_kw_per_mw;BESS capacity relative to peak MV load;kW/MW;Flexibility;Installed BESS capacity at MV (kW) ÷ peak MV load (MW);C2
+66;lv_bess_connection_applications_per_1000_consumers;BESS connection applications per 1,000 LV consumers;units;Flexibility;BESS connection applications at LV ÷ LV final consumers × 1,000;C2
+67;mv_bess_connection_applications_per_1000_consumers;BESS connection applications per 1,000 MV consumers;units;Flexibility;BESS connection applications at MV ÷ MV final consumers × 1,000;C2
+68;lv_bess_application_processing_time_days;Processing time of connection requests for consumption devices and storage at LV level;days;Flexibility;Reported processing time of connection requests for consumption devices and storage at LV;C1
+69;mv_bess_application_processing_time_days;Processing time of connection requests for consumption devices and storage at MV level;days;Flexibility;Reported processing time of connection requests for consumption devices and storage at MV;C1
+70;prosumers_full_market_mode_per_1000_lv_consumers;Prosumers in full market mode per 1,000 LV consumers;units;Flexibility;Prosumers switched to full market mode ÷ LV final consumers × 1,000;C2
+71;prosumer_market_mode_switch_duration_days;Time to switch prosumers to full market mode;days;Flexibility;Reported duration of switching prosumers to full market mode;C2
+72;prosumer_switching_automation_pct;Level of automation of prosumer switching;%;Flexibility;Reported share of prosumer switching carried out automatically;C1
+73;dynamic_tariff_consumers_per_1000_lv_consumers;Consumers with dynamic tariffs per 1,000 LV consumers;units;Flexibility;Prosumers with dynamic supply contracts ÷ (final consumers at LV + final consumers at MV/LV transformation level) × 1,000;C2
+;saidi_lv_min_per_year;SAIDI, LV networks;min/year;Outcome;Interruption duration at LV weighted by interrupted customers (unplanned interruptions > 3 min, excluding force majeure);
+;asidi_mv_min_per_year;ASIDI, MV networks;min/year;Outcome;Interruption duration at MV weighted by capacity of disconnected transformers (unplanned interruptions > 3 min, excluding force majeure);

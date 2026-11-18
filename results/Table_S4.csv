@@ -1,0 +1,31 @@
+﻿Indicator;Outcome;n;rho [95% CI];q;Share of DSOs with non-zero values, %: Q4 / All / Q1;Best quartile;All DSOs;Worst quartile
+Ratio of LV to MV network length, km/km;ASIDI;669;"−0.19 [−0.26; −0.12]";<0.001;100 / 100 / 100;2.66;2.50;2.45
+Network length per generation point, m/point;ICPS;667;"−0.11 [−0.18; −0.03]";0.0229;100 / 100 / 100;335;342;351
+Vertical exchange intensity, kW/kW;ASIDI;636;"−0.13 [−0.21; −0.05]";0.0063;96 / 98 / 99;1.00;0.99;0.98
+GIS coverage of LV network, % *;ICPS;667;"−0.20 [−0.28; −0.13]";<0.001;85 / 89 / 93;100;100;100
+GIS coverage of MV network, % *;SAIDI;667;"0.19 [0.12; 0.27]";<0.001;89 / 93 / 95;100;100;100
+Share of non-remote maximum-demand meters, % *;ICPS;661;"−0.19 [−0.26; −0.11]";<0.001;78 / 87 / 92;90;90;90
+Share of HV/MV transformers with centralized online monitoring, % *;ASIDI;386;"0.32 [0.22; 0.41]";<0.001;15 / 38 / 46;100;100;100
+Share of MV network equipment with centralized control, % *;SAIDI;664;"0.16 [0.09; 0.24]";<0.001;51 / 67 / 74;20;20;20
+Share of MV/LV substations with centralized control, % *;ASIDI;657;"0.12 [0.05; 0.20]";0.0077;15 / 18 / 22;10;10;10
+Share of HV/MV substations with centralized control, % *;SAIDI;386;"0.30 [0.20; 0.39]";<0.001;12 / 33 / 43;100;100;100
+DG capacity relative to peak LV load, kW/kW;SAIDI;659;"−0.18 [−0.25; −0.10]";<0.001;99 / 100 / 100;1.53;1.35;1.24
+DG capacity relative to peak MV load, kW/kW;ASIDI;648;"0.16 [0.08; 0.23]";<0.001;78 / 90 / 97;0.50;0.54;0.57
+DG capacity utilization factor (CUF) at LV level, %;SAIDI;666;"−0.15 [−0.22; −0.08]";<0.001;100 / 100 / 100;6.97;6.81;6.66
+DG capacity utilization factor (CUF) at MV level, %;ASIDI;591;"0.11 [0.03; 0.19]";0.0247;99 / 98 / 98;12.5;12.3;12.6
+Share of solar generation at LV level, % *;ASIDI;667;"−0.10 [−0.18; −0.03]";0.0317;100 / 100 / 100;99;99;99
+Share of wind generation at LV level, %;ASIDI;632;"0.17 [0.09; 0.25]";<0.001;6 / 18 / 21;0.052;0.045;0.029
+Share of solar generation at MV level, %;ASIDI;591;"−0.14 [−0.22; −0.06]";0.0030;93 / 97 / 96;80.2;79.3;77.0
+Share of wind generation at MV level, %;ASIDI;565;"0.18 [0.09; 0.26]";<0.001;20 / 33 / 36;39.7;34.5;34.5
+Average capacity of other RES connection applications at LV level, kW/point;ASIDI;95;"−0.23 [−0.42; −0.03]";0.0681;100 / 97 / 95;33.0;21.7;16.0
+Peak LV load per LV consumer, kW/consumer;SAIDI;661;"−0.20 [−0.27; −0.13]";<0.001;99 / 100 / 100;0.77;0.73;0.73
+Peak MV load per MV consumer, kW/consumer;ASIDI;642;"−0.14 [−0.22; −0.06]";0.0024;100 / 100 / 100;484;404;400
+Share of EV charging stations in peak MV load, %;ASIDI;587;"0.19 [0.11; 0.27]";<0.001;24 / 46 / 56;9.37;4.52;4.02
+LV connection applications per 1,000 LV consumers;SAIDI;644;"−0.12 [−0.20; −0.05]";0.0089;95 / 98 / 98;14.3;12.5;11.6
+MV connection applications per 1,000 MV consumers;ASIDI;598;"0.13 [0.05; 0.21]";0.0071;36 / 52 / 56;62.7;50.0;44.0
+New/upgraded MV connection points per 1,000 MV points;ASIDI;611;"0.14 [0.06; 0.21]";0.0039;35 / 55 / 62;50.0;30.9;24.8
+Duration of consumer connection to MV network, days;SAIDI;188;"0.22 [0.08; 0.36]";0.0109;100 / 100 / 100;111;120;150
+BESS capacity relative to peak MV load, kW/MW;ASIDI;574;"0.15 [0.07; 0.23]";0.0026;9 / 15 / 20;4.97;13.46;4.33
+BESS connection applications per 1,000 MV consumers;ASIDI;583;"0.12 [0.03; 0.19]";0.0228;10 / 20 / 24;29.4;20.9;14.7
+Processing time of connection requests for consumption devices and storage at MV level, days;SAIDI;188;"0.19 [0.05; 0.33]";0.0309;100 / 100 / 100;30.0;30.0;42.0
+Prosumers in full market mode per 1,000 LV consumers;ASIDI;511;"0.11 [0.03; 0.20]";0.0348;19 / 28 / 34;0.69;0.58;0.53

@@ -1,0 +1,34 @@
+﻿Indicator;Unit;Selected in;n LV–MV;n LV–MV–HV;Median LV–MV;Median LV–MV–HV;Difference, %;P(LV–MV–HV > LV–MV), %;Rank-biserial r;p;q;Differs (q < 0.10)
+New/upgraded MV connection points per 1,000 MV points;units;LV–MV;51;22;50.000;23.862;−52.3;24.4;−0.512;0.0006;0.0189;TRUE
+DG capacity relative to peak LV load;kW/kW;LV–MV;164;24;1.526;0.839;−45.0;29.6;−0.409;0.0013;0.0204;TRUE
+DG capacity utilization factor (CUF) at LV level;%;LV–MV;167;24;6.969;5.920;−15.0;30.7;−0.387;0.0022;0.0204;TRUE
+Ratio of LV to MV network length;km/km;LV–MV;168;25;2.664;2.123;−20.3;31.2;−0.376;0.0025;0.0204;TRUE
+Peak LV load per LV consumer;kW/consumer;LV–MV;165;25;0.767;0.672;−12.4;34.3;−0.314;0.0114;0.0755;TRUE
+BESS connection applications per 1,000 LV consumers;units;LV–MV–HV;130;17;10.374;7.617;−26.6;32.4;−0.353;0.0183;0.0945;TRUE
+LV connection applications per 1,000 LV consumers;units;LV–MV;151;20;14.316;8.916;−37.7;34.4;−0.312;0.0237;0.0945;TRUE
+Share of solar generation at MV level;%;LV–MV;117;24;80.165;60.626;−24.4;35.7;−0.286;0.0255;0.0945;TRUE
+Average capacity of solar connection applications at MV level;kW/point;LV–MV–HV;74;19;415.833;1,033.333;148.5;66.7;0.334;0.0258;0.0945;TRUE
+GIS coverage of LV network;%;Both;143;23;100.000;100.000;0.0;61.8;0.236;0.0319;0.1054;FALSE
+GIS coverage of MV network;%;Both;149;23;100.000;100.000;0.0;58.6;0.172;0.0708;0.2052;FALSE
+Network length per generation point;m/point;Both;167;25;334.656;427.161;27.6;61.1;0.222;0.0746;0.2052;FALSE
+Share of MV network equipment with centralized control;%;LV–MV;86;23;20.000;30.000;50.0;61.3;0.226;0.0886;0.2123;FALSE
+Share of EV charging stations in peak MV load;%;LV–MV;32;16;9.367;4.232;−54.8;34.8;−0.305;0.0901;0.2123;FALSE
+BESS connection applications per 1,000 MV consumers;units;LV–MV;13;8;29.412;13.296;−54.8;29.8;−0.404;0.1376;0.3028;FALSE
+Share of solar generation at LV level;%;LV–MV;167;24;98.867;99.629;0.8;58.2;0.164;0.1865;0.3657;FALSE
+BESS capacity relative to peak LV load;kW/MW;LV–MV–HV;130;22;231.362;164.961;−28.7;41.3;−0.173;0.1949;0.3657;FALSE
+MV connection applications per 1,000 MV consumers;units;LV–MV;50;19;62.745;46.512;−25.9;39.9;−0.202;0.1995;0.3657;FALSE
+Prosumers in full market mode per 1,000 LV consumers;units;LV–MV;26;7;0.693;0.263;−62.1;35.7;−0.286;0.2615;0.4541;FALSE
+Share of HV/MV substations with centralized control;%;LV–MV;13;20;100.000;100.000;0.0;55.6;0.112;0.3010;0.4966;FALSE
+DG capacity utilization factor (CUF) at MV level;%;LV–MV;126;24;12.489;15.223;21.9;56.2;0.123;0.3416;0.5308;FALSE
+DG capacity relative to peak MV load;kW/kW;Both;124;25;0.504;0.420;−16.6;44.1;−0.118;0.3539;0.5308;FALSE
+MV network density;km/km²;LV–MV–HV;165;25;2.129;2.750;29.2;55.4;0.109;0.3820;0.5481;FALSE
+Processing time of connection requests for consumption devices and storage at MV level;days;LV–MV;27;14;30.000;26.000;−13.3;42.3;−0.153;0.4320;0.5939;FALSE
+Share of wind generation at MV level;%;Both;25;14;39.714;30.991;−22.0;44.9;−0.103;0.6084;0.8031;FALSE
+Generation points per 1,000 consumption points;units;LV–MV–HV;167;25;144.646;153.530;6.1;47.2;−0.056;0.6516;0.8261;FALSE
+Share of MV/LV substations with centralized control;%;LV–MV;24;8;10.000;15.000;50.0;54.4;0.089;0.6997;0.8261;FALSE
+Peak MV load per MV consumer;kW/consumer;LV–MV;153;25;484.372;451.962;−6.7;47.7;−0.046;0.7126;0.8261;FALSE
+Share of non-remote maximum-demand meters;%;Both;128;19;90.000;90.000;0.0;52.4;0.049;0.7260;0.8261;FALSE
+Vertical exchange intensity;kW/kW;LV–MV;151;22;1.000;1.000;0.0;48.0;−0.039;0.7685;0.8453;FALSE
+Share of HV/MV transformers with centralized online monitoring;%;Both;16;21;100.000;100.000;0.0;51.2;0.024;0.8421;0.8964;FALSE
+BESS capacity relative to peak MV load;kW/MW;LV–MV;12;10;4.966;6.718;35.3;49.2;−0.017;0.9737;0.9890;FALSE
+Duration of consumer connection to MV network;days;LV–MV;27;14;111.000;120.000;8.1;49.7;−0.005;0.9890;0.9890;FALSE

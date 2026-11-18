@@ -1,0 +1,17 @@
+﻿Indicator;Outcome;n;rho [95% CI];q;Share of DSOs with non-zero values, %: Q4 / All / Q1;Best quartile;All DSOs;Worst quartile
+MV network density, km/km²;ASIDI;97;"−0.32 [−0.49; −0.12]";0.0457;100 / 100 / 100;2.75;2.80;1.27
+Network length per generation point, m/point;SAIDI;97;"0.27 [0.07; 0.45]";0.0807;100 / 100 / 100;427;459;452
+Generation points per 1,000 consumption points;SAIDI;97;"−0.32 [−0.49; −0.13]";0.0457;100 / 100 / 100;154;134;138
+GIS coverage of LV network, % *;SAIDI;97;"0.30 [0.11; 0.48]";0.0557;92 / 97 / 100;100;100;100
+GIS coverage of MV network, % *;ICPS;97;"−0.28 [−0.46; −0.09]";0.0623;92 / 98 / 100;100;100;100
+Share of non-remote maximum-demand meters, %;ICPS;94;"−0.31 [−0.48; −0.11]";0.0557;79 / 91 / 100;90;100;100
+Share of HV lines with centralized online monitoring, % *;ASIDI;96;"0.29 [0.09; 0.47]";0.0623;88 / 96 / 100;100;100;100
+Share of HV/MV transformers with centralized online monitoring, % *;ICPS;95;"−0.28 [−0.46; −0.08]";0.0651;91 / 97 / 100;100;100;100
+DG capacity relative to peak MV load, kW/kW;ASIDI;97;"0.26 [0.06; 0.44]";0.0924;100 / 98 / 96;0.42;0.39;1.07
+DG capacity relative to peak HV load, kW/kW;ASIDI;92;"0.54 [0.37; 0.68]";<0.001;5 / 39 / 80;–;0.10;0.20
+Share of wind generation at LV level, %;ICPS;93;"−0.43 [−0.59; −0.24]";0.0013;17 / 46 / 76;–;0.036;0.060
+Share of wind generation at MV level, %;ASIDI;94;"0.32 [0.12; 0.49]";0.0521;56 / 69 / 83;31.0;31.4;40.8
+Average capacity of solar connection applications at MV level, kW/point;ASIDI;82;"0.33 [0.11; 0.51]";0.0557;100 / 100 / 100;1,033;1,171;2,335
+Average capacity of solar connection applications at HV level, kW/point;ASIDI;23;"0.66 [0.29; 0.85]";0.0303;100 / 100 / 100;–;25,625;43,790
+BESS capacity relative to peak LV load, kW/MW;ASIDI;95;"0.28 [0.08; 0.46]";0.0694;88 / 91 / 96;165;161;226
+BESS connection applications per 1,000 LV consumers;ASIDI;89;"0.30 [0.09; 0.48]";0.0623;77 / 88 / 96;7.62;5.67;8.08
